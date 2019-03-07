@@ -1,7 +1,6 @@
-name: python-primer-env
+name: python-primer
 channels:
   - conda-forge
-  - matsci
 dependencies:
   - python
   - numpy
